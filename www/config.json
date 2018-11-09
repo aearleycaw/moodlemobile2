@@ -16,5 +16,5 @@
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
-    "siteurl": "https://vletest.caw.ac.uk"
+    "siteurl" : "https://vletest.caw.ac.uk"
 }
